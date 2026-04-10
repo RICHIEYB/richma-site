@@ -1,5 +1,7 @@
-# RICHMA Digital Studio
-
+# RICHMA GLOBAL Digital Studio
+🚀 **Official Website**  
+Visit the live RICHMA platform:  
+👉 https://richieyb.github.io/richma-site/
 RICHMA GLOBAL is a premium digital solutions brand focused on front-end web development, modern website design, and practical coding mentorship.
 
 We help individuals and businesses launch clean, professional, and conversion-focused websites while offering hands-on coding tutoring for aspiring developers.
